@@ -1,6 +1,6 @@
 # Advent of Code 2023
 
-![Progress Badge](https://img.shields.io/badge/Progress-6%20Solved%20(12%20Stars)-blue)
+![Progress Badge](https://img.shields.io/badge/Progress-7%20Solved%20(14%20Stars)-blue)
 
 My own solutions and notes for the [Advent of Code (2023)][aoc-2023].
 
@@ -18,6 +18,7 @@ My own solutions and notes for the [Advent of Code (2023)][aoc-2023].
 |  4 | [Scratchcards](./days/04/README.md) | ![Solved](https://img.shields.io/badge/Solved-%E2%98%85%E2%98%85-yellow) |
 |  5 | [If You Give A Seed A Fertilizer](./days/05/README.md) | ![Solved](https://img.shields.io/badge/Solved-%E2%98%85%E2%98%85-yellow) |
 |  6 | [Wait For It](./days/06/README.md) | ![Solved](https://img.shields.io/badge/Solved-%E2%98%85%E2%98%85-yellow) |
+|  7 | [Camel Cards](./days/07/README.md) | ![Solved](https://img.shields.io/badge/Solved-%E2%98%85%E2%98%85-yellow) |
 
 
 
